@@ -1,0 +1,41 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+
+#box-container{
+    border: 2px solid green;
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+
+
+#show-watch{
+    display: flex;
+    align-items:center;
+    font-size: 2rem;
+    gap: 0.5rem;
+    font-family: Arial, sans-serif;
+    color:blue;
+    justify-content: center;
+    
+    
+    
+}
+
+.show-watch p, .stow-watch span{
+    margin:0;
+    padding-left: 30px;
+}
+
